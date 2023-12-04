@@ -1,0 +1,12 @@
+#main{
+    border: 2px solid red;
+    margin: 5px;
+    padding: 5px;
+    background-color: whitesmoke;
+}
+h2{
+    padding: 7px;
+    padding-right: 10px;
+    color: white;
+    border-radius: 0 15px 0 15px;
+}
